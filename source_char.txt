@@ -1,0 +1,36 @@
+int main()
+{
+
+  +-/ >= <= != == ; , () {} [] < > 6
+
+   int a=0;
+   double x=0;
+   const double b=100;    
+
+   c=a+b;
+   c2=a1+b2;
+   c3=a1*b2;
+   c4=a1/b2;
+   
+  
+ 
+   if(a>=4)
+   {
+     abc=4;
+   }
+   else
+   {
+     abc=5;
+     x=y;
+     XX=Y+10;
+   }
+   while(X+Y==10)
+   {
+     if(X==12&&Y==14)
+     {
+      temp=Y+X;
+      K=K-10;
+     }
+   }
+   return 0;
+}
